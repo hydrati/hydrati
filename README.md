@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hyroge&hide_border=false)](https://github.com/hyroge)
+### Hello, I'm Hydrogen.
+- 👨🏻‍💻 Maybe a fullstack developer.
+- 🌱 I'm currently learning the [Rust Programming Language](https://www.rust-lang.org).
+- 🔭 I’m currently working on the [Edgeless WinPE Project](https://github.com/EdgelessPE).
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=hyroge&show_icons=true)](https://github.com/hyroge)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroge&layout=compat)](https://github.com/hyroge)
