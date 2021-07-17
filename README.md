@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the [Edgeless WinPE Project](https://github.com/EdgelessPE).
 
 
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=hyroge&show_icons=true)](https://github.com/hyroge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroge&layout=compat)](https://github.com/hyroge)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroge&layout=compat)](https://github.com/hyroge)-->
