@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyroge&layout=compact)](https://github.com/hyroge)
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroge&layout=compat)](https://github.com/hyroge)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyroge&layout=compact)](https://github.com/hyroge)
