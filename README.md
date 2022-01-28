@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 Maybe a fullstack developer. 
 - 🌱 I'm currently learning the [Rust Programming Language](https://www.rust-lang.org), [Golang](https://go.dev) and [TypeScript](https://www.typescriptlang.org/).
 - 🔭 I’m the main maintainer of the [Edgeless WinPE Project](https://github.com/EdgelessPE).
-- 😄 I'm still a middle school student.
+<!-- - 😄 I'm still a middle school student. -->
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hyroge&show_icons=true)](https://github.com/hyroge)
