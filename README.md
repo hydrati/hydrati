@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👨🏻‍💻 Maybe a fullstack developer. 
+- 👨🏻‍💻 Maybe a fullstack developer. `Developer + Designer`
 - 🌱 I'm currently learning the [Rust Programming Language](https://www.rust-lang.org), [Golang](https://go.dev) and [TypeScript](https://www.typescriptlang.org/), the first language I learned was JavaScript.
 - 🔭 I’m the main maintainer of the [Edgeless WinPE Project](https://github.com/EdgelessPE).
 <!-- - 😄 I'm still a middle school student. -->
