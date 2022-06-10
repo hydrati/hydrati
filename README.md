@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hydrati&show_icons=true)](https://github.com/hydrati)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hydrati&layout=compact)](https://github.com/hydrati)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyroge&layout=compact)](https://github.com/hydrati)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrati&layout=compact)](https://github.com/hydrati)
