@@ -23,9 +23,9 @@ My nickname is **Hydration**, I come from Guangdong, China.
 - Co-founder of [Cladonia LLC.](https://github.com/cladonia-cn)
 
 ## Working on
-- Modern Web Technologies
-- JavaScript, TypeScript
-- Vue, Vite
+- Modern Web Technologies.
+- JavaScript, TypeScript and Rust.
+- Vue, Vite.
 
 ## Contact me
 - GitHub [@hydrati](https://github.com/hydrati)
