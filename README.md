@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋
+
 > Nice to meet you here.
 
 My nickname is **Hydration**, I come from Guangdong, China.
-
-I am a student as well as a open sourceror, a Web developer and a UI/UX designer. And I am studying in Guangdong Experimental High School currently.
 
 ## I am
 - Core member team of [Edgeless PE](https://github.com/EdgelessPE)
