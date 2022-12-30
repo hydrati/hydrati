@@ -18,24 +18,29 @@ Here are some ideas to get you started:
 
 My nickname is **Hydration**, I come from Guangdong, China.
 
+<!--
 ## I am
 - Core member team of [Edgeless PE](https://github.com/EdgelessPE)
 - Co-founder of [Cladonia LLC.](https://github.com/cladonia-cn)
+-->
 
 ## Working on
 - Modern Web Technologies.
 - JavaScript, TypeScript and Rust.
-- Vue, Vite.
 
 ## Contact me
 - GitHub [@hydrati](https://github.com/hydrati)
+<!--
 - bilibili [@水合Hydration](https://space.bilibili.com/98955693)
-- Email [hy@cladonia.team](mailto:hy@cladonia.team)
+-->
+- Email [hy#cladonia.team](mailto:hy@cladonia.team)
 - Twitter [@_hydrati](https://twitter.com/_hydrati)
 
+<!--
 ## More
 - 🌱 I'm currently learning the [Rust Programming Language](https://www.rust-lang.org), [Golang](https://go.dev) and [TypeScript](https://www.typescriptlang.org/), the first language I learned was JavaScript.
 - 🤔 I'm a middle school student in Grade 9 in China.
+-->
 
 ## Status
 [![github stats](https://github-readme-stats.vercel.app/api?username=hydrati&show_icons=true)](https://github.com/hydrati)
